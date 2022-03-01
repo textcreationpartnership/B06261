@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true loves knot untyed, being the right path, whereby to advise princely virgins how to behave themselves by the example of the renowned princesse, the Lady Arabella, and the second son to the Lord Seymor, late Earl of Hartford. To the tune of Frogs Galliard.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06261</idno>
+            <idno type="STC">Wing T2755D</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[55]</idno>
+            <idno type="EEBO-CITATION">99887590</idno>
+            <idno type="PROQUEST">ocm99887590</idno>
+            <idno type="VID">182315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182315)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[59])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true loves knot untyed, being the right path, whereby to advise princely virgins how to behave themselves by the example of the renowned princesse, the Lady Arabella, and the second son to the Lord Seymor, late Earl of Hartford. To the tune of Frogs Galliard.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "As I from Ireland did passe ..."</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660 --  Poetry --  Early works to 1800.</term>
+               <term>Stuart, Arabella, --  Lady, 1575-1615 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182315:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>The true Loves knot untyed, Being the right path, whereby to adviſe princely Virgins how to be<g ref="char:EOLhyphen"/>have themſelves by the example of the Renowned Princeſſe, the Lady ARABELLA, and the ſecond Son to the Lord seymor, late Earl of Hartford.</head>
+            <opener>To the Tune of Frogs Galliard.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>AS I from Ireland did paſſe,</l>
+               <l>I ſaw a Ship at anchor lay:</l>
+               <l>Another Ship likewiſe there was,</l>
+               <l>Which from fair England took her way.</l>
+            </lg>
+            <lg>
+               <l>This Ship that ſail'd from fair England,</l>
+               <l>Vnknown unto our gracious King,</l>
+               <l>The Lord Chief-Iuſtice did command,</l>
+               <l>That they ſhould us to London bring.</l>
+            </lg>
+            <lg>
+               <l>I drew more neer, and ſaw more plain,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dy <hi>Arabella</hi> in diſtreſſe:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wrung her hands, and wept amain,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewailing of her heavineſſe.</l>
+            </lg>
+            <lg>
+               <l>When neer fair London-tower ſhe came,</l>
+               <l>Whereas her landing place ſhould be,</l>
+               <l>The King and Queen, with all their train</l>
+               <l>Did meet this Lady gallanty.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Arabella</hi> then our King</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lady ſtraight did ſay,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tic'd you to this thing,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> England took your way?</l>
+            </lg>
+            <lg>
+               <l>None but my ſelf, my gracious Liege,</l>
+               <l>This ten long yéers I've béen in love</l>
+               <l>With the Lord <hi>Seymors</hi> ſecond Son,</l>
+               <l>The Earl of Hartford ſo we prove.</l>
+            </lg>
+            <lg>
+               <l>Though he be not the mightieſt man</l>
+               <l>Of Goods and Livings in this land,</l>
+               <l>Yet I have Lands us to maintain,</l>
+               <l>So much your Grace doth underſtood.</l>
+            </lg>
+            <lg>
+               <l>My Lands and Livings are well known</l>
+               <l>Vnto your Books of Majeſty,</l>
+               <l>Amounts to twelve ſcore pounds a Wéek,</l>
+               <l>Beſides what I do give quoth ſhe.</l>
+            </lg>
+            <lg>
+               <l>In gallant Derbyſhire likewiſe</l>
+               <l>I nine ſcore Beadſmen maintain there,</l>
+               <l>With hats and gowns, and hou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-rent free</l>
+               <l>And every man five Marks a yéer.</l>
+            </lg>
+            <lg>
+               <l>I never raiſed Rent, ſhe ſaid,</l>
+               <l>Nor yet oppreſt the tenants poor</l>
+               <l>I never took no Bribes nor Fines,</l>
+               <l>For why, I had enough before.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:182315:1"/>
+               <!-- PDF PAGE 11 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame Tune</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>VVHich of your Nobles will do ſo,</l>
+                  <l>For to maintain the Commonalty?</l>
+                  <l>Such multitudes would never grow,</l>
+                  <l>Nor be ſuch ſtore of poverty.</l>
+               </lg>
+               <lg>
+                  <l>I would I had a Milk-maid béen,</l>
+                  <l>Or born of ſome lower degrée,</l>
+                  <l>Then I might have lov'd where I like,</l>
+                  <l>And no man could have hindred me.</l>
+               </lg>
+               <lg>
+                  <l>Or would I were ſome Yeomans childe,</l>
+                  <l>For to receive my portion now</l>
+                  <l>According unto my degrée,</l>
+                  <l>As other Virgins whom I know.</l>
+               </lg>
+               <lg>
+                  <l>The higheſt Branch that ſprings aloft,</l>
+                  <l>Needs muſt ore ſhade the middle tree,</l>
+                  <l>Needs muſt the ſhadow of them both</l>
+                  <l>Shadow the third in his degree.</l>
+               </lg>
+               <lg>
+                  <l>But when that tree is cut and gone,</l>
+                  <l>And from the ground is born away,</l>
+                  <l>The loweſt trée that there doth ſtand,</l>
+                  <l>In time may grow as high as they.</l>
+               </lg>
+               <lg>
+                  <l>Once where I thought to have bin Quéen,</l>
+                  <l>But yet that ſtile I did deny,</l>
+                  <l>I know your Grace had right to'th Crown</l>
+                  <l>Before <hi>Elizabeth</hi> did dye.</l>
+               </lg>
+               <lg>
+                  <l>You of the elder ſiſter came,</l>
+                  <l>I of the ſecond in degree,</l>
+                  <l>The Earl of Hartford of the third,</l>
+                  <l>A man of Royall bloud, quoth ſhe.</l>
+               </lg>
+               <lg>
+                  <l>And ſo goodnight my Soveraign-Leige,</l>
+                  <l>Since in the Tower I muſt lye,</l>
+                  <l>I hope your Grace will condiſcend</l>
+                  <l>That I may have my liberty.</l>
+               </lg>
+               <lg>
+                  <l>Lady <hi>Arabella,</hi> ſaid our King,</l>
+                  <l>I to your fréedom would conſent,</l>
+                  <l>If you will turn and go to'th Church,</l>
+                  <l>There to receive the Sacrament.</l>
+               </lg>
+               <lg>
+                  <l>And ſo goodnight <hi>Arabella</hi> fair,</l>
+                  <l>Our King to her reply'd again,</l>
+                  <l>I will take Counſell of my Nobility,</l>
+                  <l>That you your fréedom may obtain.</l>
+               </lg>
+               <lg>
+                  <l>Once more to priſon muſt I go,</l>
+                  <l>Lady <hi>Arabella</hi> then did ſay,</l>
+                  <l>To leave my Love breeds all my woe,</l>
+                  <l>The which will be my lifes decay.</l>
+               </lg>
+               <lg>
+                  <l>Love is the knot none can unknit,</l>
+                  <l>Fancie a liking of the heart:</l>
+                  <l>He whom I love cannot forget,</l>
+                  <l>Though from his preſence I muſt part.</l>
+               </lg>
+               <lg>
+                  <l>The meaneſt people injoys their Mates,</l>
+                  <l>But I was born unhappily,</l>
+                  <l>For being croſs'd by cruell Fate,</l>
+                  <l>I want both Love and liberty.</l>
+               </lg>
+               <lg>
+                  <l>But Death, I hope, will end the ſtrife,</l>
+                  <l>Farewel, farewel, dear Love, quot ſhe,</l>
+                  <l>Once had I thought to have been thy wife,</l>
+                  <l>But now am forc'd ſo part from thee.</l>
+               </lg>
+               <lg>
+                  <l>At this ſad parting ſhe had cauſe</l>
+                  <l>In heart and minde to grieve full ſore:</l>
+                  <l>After that time <hi>Arabella</hi> fair</l>
+                  <l>Did never ſée Lord <hi>Seymor</hi> more.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Grove.</hi> 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
